@@ -1,6 +1,8 @@
+//import React from "react"; 
 import React, { Component } from "react";
 import "./App.css";
 
+//class App extends React.Component {
 class App extends Component {
     render() {
         return (
@@ -12,7 +14,7 @@ class App extends Component {
                 <div id="Main">
                     <div id="LeftContent">
                         <h1>Say hello to ReactJS</h1>
-                        <p>You will learn a Frontend</p><p>framework from scratch, to became</p><p>an Ninka Developer</p>
+                        <p>You will learn a Frontend</p><p>framework from scratch, to became</p><p>an Ninja Developer</p>
                         <h3>Awesome !</h3>
                     </div>
                     <div id="RightContent">

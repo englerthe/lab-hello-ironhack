@@ -36,6 +36,9 @@ h1 {
   font-size: 6em;
   margin: 0;
 }
+h2 {
+  margin: 0 0 0 0.67rem;
+}
 h3 {
   background:white;
   color: black;
