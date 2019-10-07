@@ -1,0 +1,50 @@
+.App {
+    font-family: Verdana, Helvetica, sans-serif;
+}
+#Nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: black;
+    color: white;
+    padding:20px 70px;
+}
+#Main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background: black;
+  color: white;
+  padding:50px 0 0 70px;
+}
+#LeftContent {
+  width: 50%;
+}
+#RightContent {
+  width: 50%;
+}
+#icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;  
+  margin: 50px 0 50px;
+  padding-left: 10%;
+  padding-right: 10%;
+  
+}
+h1 {
+  font-size: 6em;
+  margin: 0;
+}
+h3 {
+  background:white;
+  color: black;
+  padding: 20px;
+  width: 120px;
+  margin: 50px 0 50px 0.67rem;
+}
+p {
+  font-size: 1.5em;
+  margin: 0 0 0 0.67rem;
+}
+
